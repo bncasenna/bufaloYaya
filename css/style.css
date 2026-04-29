@@ -1,0 +1,16 @@
+:root{
+
+}
+
+.body{
+    border: 2px solid red;
+}
+
+/* --------------------------- HEADER -------------------------------- */
+.header{
+    border: 2px solid green;
+}
+/* --------------------------- FOOTER -------------------------------- */
+.footer{
+    border: 2px solid blue;
+}
