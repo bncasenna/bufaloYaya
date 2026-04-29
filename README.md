@@ -6,7 +6,7 @@ A ideia central é criar um espaço único onde a narrativa da artista seja cont
 
 Timeline de Carreira: Uma jornada visual pelos marcos e lançamentos da artista.
 Discografia Integrada: Acesso rápido a álbuns, singles e letras de músicas.
-Engajamento: Área dedicada para as últimas notícias e agenda de eventos/turnês.# 🎵 Artist Hub | Experiência Digital Imersiva
+🎵 Artist Hub | Experiência Digital Imersiva
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
