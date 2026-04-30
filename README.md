@@ -55,7 +55,7 @@ O projeto utiliza **C#** no backend para garantir escalabilidade e segurança, f
 
 ```bash
 # 1. Clone este repositório
-$ git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/seu-usuario/nome-do-projeto.git)
+$ git clone [https://github.com/bncasenna/bufaloYaya.git](https://github.com/seu-usuario/nome-do-projeto.git)
 
 # 2. Acesse a pasta do projeto
 $ cd nome-do-projeto
