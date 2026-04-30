@@ -1,4 +1,10 @@
 :root{
+ --darkSand: #210D05;
+ --brown: #763e0f;
+ --softbrown: #995122;
+ --sand: #975E3A;
+ --softSand: #C57E52;
+ --lightSand: #D79D6D;
 
 }
 
@@ -8,9 +14,23 @@
 
 /* --------------------------- HEADER -------------------------------- */
 .header{
-    border: 2px solid green;
+    background: var(--softbrown);
+    justify-content: center;
+    position: relative;
+    padding: 0% 70%;
+}
+
+.ass{
+    position: relative;
+    max-height: 10% ;
 }
 /* --------------------------- FOOTER -------------------------------- */
 .footer{
+    background: var(--darkSand);
     border: 2px solid blue;
+}
+
+.footer p{
+    color: var(--lightSand);
+    justify-content: center;
 }
