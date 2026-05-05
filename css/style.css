@@ -1,33 +1,94 @@
 :root{
- --darkSand: #210D05;
- --brown: #763e0f;
- --softbrown: #995122;
- --sand: #975E3A;
- --softSand: #C57E52;
- --lightSand: #D79D6D;
-
-}
-
-.body{
-    border: 2px solid red;
+ --darkSand: #291002;
+ --brown: #532912;
+ --softbrown: #6B3517;
+ --sand: #783B1A;
+ --softSand: #7E4B30;
+ --lightSand: #D3AC97;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
 /* --------------------------- HEADER -------------------------------- */
 .header{
-    background: var(--softbrown);
-    justify-content: center;
-    position: relative;
-    padding: 0% 70%;
+    background: var(--sand);
+    padding: 0 50px;
 }
 
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    color: var(--lightSand);
+    font-size: 30px;
+}
+
+.navLinks{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+.navLinks li a{
+    color: var(--lightSand);
+    text-decoration: none;
+}
+
+.navLinks li a:hover {
+    color: var(--softSand);
+}
+
+.navSocial{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    font-size: 55px
+}
+
+.navSocial li a{
+    color: var(--lightSand);
+    text-decoration: none;
+}
+
+.navSocial li a:hover {
+    color: var(--softSand);
+}
+
+/* --------------------------- MAIN -------------------------------- */
 .ass{
-    position: relative;
-    max-height: 10% ;
+    width: 200px;
+    height: 100px;
+    position: center;
+}
+
+.background{
+    background-image: linear-gradient(to bottom, var(--sand), var(--softbrown), var(--brown), var(--darkSand));
+    position: sticky;
+}
+
+.midias {
+    display: flex;
+    justify-content: center; 
+    padding: 40px 20px;
+}
+
+.spotify {
+    width: 100%;          
+    max-width: 500px;   
+    height: 352px;        
+    border-radius: 12px;      
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5); 
+}
+
+.youtube {
+    margin: 30px auto;
+    width: 100%;
+    max-width: 500px;
+    aspect-ratio: 16 / 9;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 /* --------------------------- FOOTER -------------------------------- */
 .footer{
     background: var(--darkSand);
-    border: 2px solid blue;
 }
 
 .footer p{
