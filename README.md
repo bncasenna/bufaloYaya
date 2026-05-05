@@ -1,3 +1,12 @@
+# <p align="center">BufaloYaya</p>
+<p align="center"><i>Full Stack application for an artist in the music insdustry</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+
+---
+
 🎵 Plataforma de Experiência Musical
 Este projeto consiste num site dedicado a Ayran Bufalo, funcionando como o hub oficial para fãs e ouvintes. A plataforma oferece uma experiência imersiva que combina a identidade visual da artista com funcionalidades interativas para consumo de conteúdo, desenvolvida com a robustez e performance do ecossistema C#.
 
@@ -7,10 +16,6 @@ A ideia central é criar um espaço único onde a narrativa da artista seja cont
 Timeline de Carreira: Uma jornada visual pelos marcos e lançamentos da artista.
 Discografia Integrada: Acesso rápido a álbuns, singles e letras de músicas.
 🎵 Artist Hub | Experiência Digital Imersiva
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)
 
 > **Hub oficial dedicado a Ayran Bufalo** Uma plataforma que une identidade visual marcante com a robustez técnica do ecossistema .NET para conectar fãs e obra.
 
@@ -51,8 +56,20 @@ O projeto utiliza **C#** no backend para garantir escalabilidade e segurança, f
 
 ---
 
-## 🚀 Como Executar o Projeto
+<p align="center">
+   <img src="https://img.shields.io/badge/Status-🚧_Em_Desenvolvimento-orange?style=for-the-badge" alt="Status">
+</p>
 
-```bash
-# 1. Clone este repositório
-$ git clone https://github.com/bncasenna/bufaloYaya.git
+---
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/bncasenna.png" width="100px;" style="border-radius: 50%;" alt="Bianca Senna"/><br>
+      <b>Bianca Senna</b>
+    </td>
+    <td>
+      • Instrutora de Yoga<br>
+      • Desenvolvedora em formação
+    </td>
+  </tr>
