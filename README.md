@@ -69,7 +69,6 @@ O projeto utiliza **C#** no backend para garantir escalabilidade e segurança, f
       <b>Bianca Senna</b>
     </td>
     <td>
-      • Instrutora de Yoga<br>
       • Desenvolvedora em formação
     </td>
   </tr>
